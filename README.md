@@ -1,11 +1,11 @@
 ## Мои контакты:
 - Discord: ketonedev
 ### Данные о языках
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiNgchev&bg_color=30,7500ad,b467ff&title_color=fff&text_color=fff&show_icons=true&icon_color=dbba58)](https://github.com/kiNgchev/github-readme-stats)
+[![KiNgchev top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiNgchev&bg_color=30,7500ad,b467ff&title_color=fff&text_color=fff&show_icons=true&icon_color=7567ff)](https://github.com/anuraghazra/github-readme-stats)
 ### Статистика работы с гитхабом
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiNgchev&bg_color=30,7500ad,b467ff&title_color=fff&text_color=fff&show_icons=true&icon_color=7567ff)](https://github.com/kiNgchev/github-readme-stats)
+[![KiNgchev stats](https://github-readme-stats.vercel.app/api?username=kiNgchev&bg_color=30,7500ad,b467ff&title_color=fff&text_color=fff&show_icons=true&icon_color=7567ff)](https://github.com/kiNgchev/github-readme-stats)
 
-### Красивый банер
+### Красивый банер (С - спизжено) 
 ```
 ⠀⠀⢀⣀⠤⠔⢒⠊⠉⢂⡠⠦⠞⠃⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣠⣤⣤⣤⣤⣤⡤⠤⠧⣄⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠐⠀⠉⠀⠀⠀⠀⠃⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣴⢶⣿⣿⣿⣿⢿⣿⠟⠉⠉⠁⡀⠀⠀⠀⠉⠉⠓⠲⢤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀

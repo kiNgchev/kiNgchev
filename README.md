@@ -5,7 +5,7 @@
 ### Статистика работы с гитхабом
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiNgchev&bg_color=30,7500ad,b467ff&title_color=fff&text_color=fff&show_icons=true&icon_color=7567ff)](https://github.com/kiNgchev/github-readme-stats)
 
-### Красивый банер (С - спизжено) 
+### Красивый банер
 ```
 ⠀⠀⢀⣀⠤⠔⢒⠊⠉⢂⡠⠦⠞⠃⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣠⣤⣤⣤⣤⣤⡤⠤⠧⣄⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠐⠀⠉⠀⠀⠀⠀⠃⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣴⢶⣿⣿⣿⣿⢿⣿⠟⠉⠉⠁⡀⠀⠀⠀⠉⠉⠓⠲⢤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀

@@ -4,7 +4,7 @@
 [![KiNgchev top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiNgchev&bg_color=30,7500ad,b467ff&title_color=fff&text_color=fff&show_icons=true&icon_color=7567ff)](https://github.com/anuraghazra/github-readme-stats)
 ### Статистика работы с гитхабом
 ![KiNgchev stats](https://github-readme-stats.vercel.app/api?username=kiNgchev&bg_color=30,7500ad,b467ff&title_color=fff&text_color=fff&show_icons=true&icon_color=7567ff)
-### Красивый банер (С - спизжено) 
+### Красивый банер
 ```
 ⠀⠀⢀⣀⠤⠔⢒⠊⠉⢂⡠⠦⠞⠃⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣠⣤⣤⣤⣤⣤⡤⠤⠧⣄⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠐⠀⠉⠀⠀⠀⠀⠃⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣴⢶⣿⣿⣿⣿⢿⣿⠟⠉⠉⠁⡀⠀⠀⠀⠉⠉⠓⠲⢤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀

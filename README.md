@@ -53,14 +53,4 @@
 - Hub: Пока что пусто ¯\_(ツ)_/¯
 
 ## Статистика
-В таблице ниже представлена статистика моего обитания на гитхабе
-<table style="display: flex; justify-content: center">
-    <tr>
-        <td>Данные о языках</td>    
-        <td>Данные о работе с гитхабом</td>
-    </tr>
-    <tr>
-        <td><img alt="data" src="https://github-stats-api.kingchev.xyz/api/top-langs/?username=kiNgchev&bg_color=30,7500ad,b467ff&title_color=fff&text_color=fff&show_icons=true&icon_color=7567ff"></td>    
-        <td><img alt="data" src="https://github-stats-api.kingchev.xyz/api?username=kiNgchev&bg_color=30,7500ad,b467ff&title_color=fff&text_color=fff&show_icons=true&icon_color=7567ff"></td>
-    </tr>
-</table>
+![](./profile-3d-contrib/profile-night-rainbow.svg)

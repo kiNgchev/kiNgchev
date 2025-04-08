@@ -31,7 +31,7 @@
 - Telegram: [kiNgchev Hub](https://t.me/k1ngchev)
 - Twitch: [k1ngchev](https://www.twitch.tv/k1ngchev)
 - Youtube: [KiNgchev Hub](https://www.youtube.com/channel/UC1-4OolMyPyZPJguuztT87Q)
-- Bio: [Website](https://kinghcev.net/)
+- Bio: [Website](https://kingchev.net/)
 - Hub: <img src="https://img.shields.io/discord/1263879579421118615.svg?label=Discord&logo=Discord&colorB=525dea&style=flat" />
 
 ## Статистика

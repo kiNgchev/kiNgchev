@@ -1,9 +1,16 @@
+name: Snake
+
 on:
   schedule:
     - cron: "0 17 * * *"
   workflow_dispatch:
 
 jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib

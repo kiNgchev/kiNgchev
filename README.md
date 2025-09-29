@@ -59,11 +59,13 @@
 ## Статистика
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C275%20hrs%2015%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 258.9 kB Used in GitHub's Storage 
+> 📦 259.1 kB Used in GitHub's Storage 
  > 
 > 🏆 258 Contributions in the Year 2025
  > 
@@ -73,6 +75,45 @@
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+🌆 Daytime                138 commits         ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+🌃 Evening                269 commits         ██████████████░░░░░░░░░░░   56.04 % 
+🌙 Night                  47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Tuesday                  63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Wednesday                48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Thursday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Friday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Saturday                 80 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Sunday                   107 commits         ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -90,7 +131,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kiNgchev/kiNgchev/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 17:16:50 UTC
+ Last Updated on 29/09/2025 17:19:27 UTC
 <!--END_SECTION:waka-->
 
 ## Donate

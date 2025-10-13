@@ -65,15 +65,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 259.3 kB Used in GitHub's Storage 
+> 📦 259.6 kB Used in GitHub's Storage 
  > 
 > 🏆 275 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 23 Public Repositories 
  > 
-> 🔑 20 Private Repositories 
+> 🔑 21 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -131,7 +131,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kiNgchev/kiNgchev/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2025 17:16:34 UTC
+ Last Updated on 13/10/2025 17:18:48 UTC
 <!--END_SECTION:waka-->
 
 ## Donate

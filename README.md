@@ -63,7 +63,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 260.0 kB Used in GitHub's Storage 
+> 📦 260.1 kB Used in GitHub's Storage 
  > 
 > 🏆 298 Contributions in the Year 2025
  > 
@@ -129,7 +129,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kiNgchev/kiNgchev/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2025 17:17:24 UTC
+ Last Updated on 02/11/2025 17:18:18 UTC
 <!--END_SECTION:waka-->
 
 ## Donate

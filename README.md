@@ -61,11 +61,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C275%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 260.2 kB Used in GitHub's Storage 
+> 📦 260.3 kB Used in GitHub's Storage 
  > 
 > 🏆 308 Contributions in the Year 2025
  > 
@@ -131,7 +131,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kiNgchev/kiNgchev/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2025 17:17:46 UTC
+ Last Updated on 11/11/2025 17:21:08 UTC
 <!--END_SECTION:waka-->
 
 ## Donate

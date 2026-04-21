@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&duration=2500&pause=1000&color=FFFFFF&background=41414100&center=true&multiline=true&repeat=false&width=1000&height=100&lines=fun+main()+%7B+++++println(%22Hello+world%22)+%7D" alt="Typing SVG" />
 </p>
+
 ## Познакомимся?)
 Меня зовут Игорь, я программист из России.
 Занимаюсь программированием чуть больше 3-х лет, посвящаю этому делу все свободное время.

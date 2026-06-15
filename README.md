@@ -68,7 +68,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 295.6 kB Used in GitHub's Storage 
+> 📦 295.7 kB Used in GitHub's Storage 
  > 
 > 🏆 97 Contributions in the Year 2026
  > 
@@ -105,16 +105,21 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   44 mins             █████████████████░░░░░░░░   68.16 % 
+XML                      9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+YAML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Properties               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            1 hr 2 mins         ████████████████████████░   95.64 % 
+Unknown Editor           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Projekt-Mastodont        1 hr 5 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -134,7 +139,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kiNgchev/kiNgchev/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2026 18:16:15 UTC
+ Last Updated on 15/06/2026 20:27:53 UTC
 <!--END_SECTION:waka-->
 
 ## Donate

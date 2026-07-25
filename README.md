@@ -62,6 +62,8 @@
 ## Статистика
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C321%20hrs%2052%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -103,23 +105,23 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   4 hrs 35 mins       ████████████░░░░░░░░░░░░░   49.16 % 
-Kotlin                   2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-YAML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-HTTP Request             32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-.env file                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Python                   3 hrs 4 mins        ███████████████░░░░░░░░░░   58.32 % 
+Kotlin                   1 hr 50 mins        █████████░░░░░░░░░░░░░░░░   35.00 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-IntelliJ IDEA            9 hrs 21 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            5 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sj-backend               8 hrs 35 mins       ███████████████████████░░   91.89 % 
-gift-for-dilirya         32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-stahl-geist              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+sj-backend               4 hrs 31 mins       █████████████████████░░░░   85.65 % 
+gift-for-dilirya         32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+stahl-geist              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Windows                  9 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -139,7 +141,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kiNgchev/kiNgchev/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 18:21:02 UTC
+ Last Updated on 25/07/2026 18:00:07 UTC
 <!--END_SECTION:waka-->
 
 ## Donate

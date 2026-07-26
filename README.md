@@ -105,23 +105,23 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   3 hrs 4 mins        ███████████████░░░░░░░░░░   58.32 % 
-Kotlin                   1 hr 50 mins        █████████░░░░░░░░░░░░░░░░   35.00 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Python                   2 hrs 39 mins       ███████████████░░░░░░░░░░   59.05 % 
+Kotlin                   1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   33.13 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 16 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sj-backend               4 hrs 31 mins       █████████████████████░░░░   85.65 % 
-gift-for-dilirya         32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-stahl-geist              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+sj-backend               3 hrs 44 mins       █████████████████████░░░░   83.18 % 
+gift-for-dilirya         32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+stahl-geist              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Windows                  5 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -141,7 +141,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kiNgchev/kiNgchev/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 18:00:07 UTC
+ Last Updated on 26/07/2026 18:03:26 UTC
 <!--END_SECTION:waka-->
 
 ## Donate

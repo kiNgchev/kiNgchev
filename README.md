@@ -62,15 +62,11 @@
 ## Статистика
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C320%20hrs%2029%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 299.7 kB Used in GitHub's Storage 
+> 📦 299.8 kB Used in GitHub's Storage 
  > 
 > 🏆 105 Contributions in the Year 2026
  > 
@@ -107,22 +103,18 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   2 hrs 11 mins       ███████████████░░░░░░░░░░   60.53 % 
-Kotlin                   1 hr 20 mins        █████████░░░░░░░░░░░░░░░░   37.15 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Python                   1 hr 28 mins        ███████████████████████░░   91.17 % 
+Kotlin                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 36 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 37 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sj-backend               3 hrs 2 mins        █████████████████████░░░░   84.18 % 
-gift-for-dilirya         32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+sj-backend               1 hr 37 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -148,7 +140,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kiNgchev/kiNgchev/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 18:26:06 UTC
+ Last Updated on 28/07/2026 18:17:13 UTC
 <!--END_SECTION:waka-->
 
 ## Donate

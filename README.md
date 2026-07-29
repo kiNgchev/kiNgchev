@@ -62,6 +62,10 @@
 ## Статистика
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C320%20hrs%2029%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -103,18 +107,16 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   1 hr 28 mins        ███████████████████████░░   91.17 % 
-Kotlin                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sj-backend               1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -140,7 +142,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kiNgchev/kiNgchev/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 18:17:13 UTC
+ Last Updated on 29/07/2026 18:09:44 UTC
 <!--END_SECTION:waka-->
 
 ## Donate
